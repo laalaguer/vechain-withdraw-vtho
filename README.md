@@ -17,10 +17,10 @@ This tool provides a script to widthdraw it easily.
 
 # Usage
 
-Withdraw all VTHO from contract with private key `abcdef...`
+Withdraw all VTHO from contract with private key:
 
-`python3 withdraw.py drain {contract_address} --privatekey=abcdef... `
+`python3 withdraw.py drain {contract_address} --privatekey={private_key} `
 
-Withdraw all VTHO from contract with mnemonic words `apple banana cat ... `
+Withdraw all VTHO from contract with mnemonic words:
 
 `python3 withdraw.py drain {contract_address} --words="apple banana cat ..."`
