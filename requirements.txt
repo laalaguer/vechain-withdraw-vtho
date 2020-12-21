@@ -1,0 +1,2 @@
+thor-devkit==1.0.7
+requests==2.25.1
